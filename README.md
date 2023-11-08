@@ -1,5 +1,5 @@
 # Impact-of-weather-Condition-on-Air-Quality
-IMPACT OF WEATHER CONDITIONS ON AIR QUALITY
+Check out the Dashboard: https://public.tableau.com/app/profile/bolatito.kehinde.odunlami/viz/ImpactofWeatheronAirQuality/Dashboard1
 ABOUT PROJECT
  
 A company in the environmental consulting industry is seeking to understand the dynamics of different weather conditions in a Beijing and the impact on air quality. The goal of the project is to obtain adequate insight from the analysis that can serve as foundation for making recommendations to the government and businesses in the region on how to mitigate the impact of weather conditions on air quality, allow informed decision making for emergency response plans and the preparation for potential air quality issues.
