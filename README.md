@@ -34,6 +34,7 @@ Fine particulate matter (PM2.5) is an air pollutant that is a concern for people
 -	Severe (110 >):
 
 ANALYSIS PROCESSES 
+
 The dataset was viewed and cleaned on excel spreadsheet to have an overview of the entire data, and explore possible insights from the data. After the possible insights was noted, the dataset was imported into Tableau to create charts and dashboard in for proper derivation of insights.
 
 Findings
